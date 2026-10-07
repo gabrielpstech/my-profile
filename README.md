@@ -20,4 +20,4 @@ A static website served with GitHub Pages from the `main` branch and repository 
 
 ## Updating the page
 
-Edit `index.html` for English and `pt-br.html` for Brazilian Portuguese. Shared colors and responsive layout are in `styles.css`; localized clipboard feedback and section-preserving language links are in `script.js`. Keep content changes aligned across both HTML files. Replace `gabriel-silva-profile.pdf` to update the downloadable LinkedIn profile.
+Edit `index.html` for English and `pt-br.html` for Brazilian Portuguese. Shared colors and responsive layout are in `styles.css`; localized clipboard feedback and section-preserving language links are in `script.js`. Keep content changes aligned across both HTML files. Contact is available through email and LinkedIn only.
