@@ -1,6 +1,6 @@
 # Gabriel P. Silva
 
-Infrastructure Technical Lead · Cloud & Reliability · Oracle Database, Exadata & OCI
+IT Infrastructure & Cloud · Architecture & Reliability · Oracle Database, Exadata & OCI
 
 Professional landing page with experience, technical expertise, certifications, and contact links. A warm beige and terracotta theme is shared by both languages.
 
